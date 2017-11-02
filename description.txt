@@ -1,0 +1,8 @@
+
+1、requests模块        与web服务器进行交互
+2、      re模块        模式匹配 正则表达式 筛选信息
+
+
+request module:
+    get() 是从服务器获取数据     通过构造url中的参数来实现
+    post() 向服务器传送数据        将数据放在header提交
